@@ -1,0 +1,16 @@
+{
+  "name": "app01",
+  "short_name": "app01",
+  "lang": "fr-FR",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f6f8fb",
+  "theme_color": "#0f62fe",
+  "icons": [
+    {
+      "src": "/src/assets/logo.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}
